@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans&display=swap');
+
+body{
+   font-family: "Kumbh Sans";
+    margin: auto 0px;
+   text-align: justify;
+}
+
+.img{
+    background-image:url(../img/mountain.jpg);
+    background-size: cover;
+    margin-bottom: 10px;
+    height: 275px;
+    color: white;
+    margin: 0px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+
+.headers{
+    padding-top: 30px; 
+}
+
+.TravelSite{
+    font-weight: bold;    
+}
+
+.head{
+    min-width: 400px;
+    width: 60%;
+    max-width: 900px;
+    margin: auto;
+}
+
+h1{
+    font-size: 40px;
+    margin: 50px auto;
+}
+
+.con {
+    min-width: 400px;
+    width: 60%;
+    max-width: 900px;
+    margin: auto;
+}
+
+.text{
+    padding-top: 30px;
+}
+
+main{
+    margin: auto;
+    width: 300px;
+    height: 375px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 7px black;
+    text-align: center;
+    overflow: hidden;
+    font-family: Arial;
+}
+
+header{
+    height: 100px;
+    background: linear-gradient(90deg, purple, blue);
+}
+
+.card{
+    width: 100px;
+    height: 100px;
+    border-radius: 55px;
+    box-shadow: 0px 0px 5px black;
+    margin: auto;
+    margin-top: -50px;
+    border: 2px solid white ;
+    background-image: url(../img/face.jpg);
+    background-size: cover;
+    background-position: center;   
+}
+
+h4{
+    text-align: justify;
+    font-weight: normal;
+    padding: 10px;
+}
+
+.email{
+    color: black;
+    font-size: 18px;
+    font-weight: bold;  
+}
